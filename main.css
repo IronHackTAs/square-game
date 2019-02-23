@@ -1,0 +1,14 @@
+canvas {
+  border: 1px solid red;
+  background-color: white;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOHfNi7ANXDGfoUgtzqobv7mL7n8nAzwmYzFN8A7XSikYGMa7AQ')
+}
